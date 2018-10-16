@@ -1,5 +1,5 @@
 package = "haxe-deps"
-version = "scm-1"
+version = "0.0.1-0"
 
 source = {
    url = "git://github.com/jdonaldson/haxe-deps.git"
