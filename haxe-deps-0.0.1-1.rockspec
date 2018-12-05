@@ -1,5 +1,5 @@
 package = "haxe-deps"
-version = "scm-1"
+version = "0.0.1-1"
 
 source = {
    url = "git://github.com/jdonaldson/haxe-deps.git"
@@ -12,10 +12,10 @@ description = {
 
 dependencies = {
    "lrexlib-pcre == 2.8.0-1",
-   "luv          >= 1.22.0-1",
-   "luasocket    >= 3.0rc1-2",
-   "luautf8      >= 0.1-1",
-   "bit32        >= 5.3.0-1"
+   "luv          == 1.22.0-1",
+   "luasocket    == 3.0rc1-2",
+   "luautf8      == 0.1.1-1",
+   "bit32        == 5.3.0-1"
 }
 
 build = {
