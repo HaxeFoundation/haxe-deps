@@ -12,10 +12,10 @@ description = {
 
 dependencies = {
    "lrexlib-pcre == 2.8.0-1",
-   "luv          >= 1.32",
-   "luasocket    >= 3.0rc1-2",
-   "luautf8      >= 0.1-1",
-   "bit32        >= 5.3.0-1"
+   "luv          == 1.32",
+   "luasocket    == 3.0rc1-2",
+   "luautf8      == 0.1-1",
+   "bit32        == 5.3.0-1"
 }
 
 build = {
