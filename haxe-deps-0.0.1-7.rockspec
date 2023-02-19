@@ -2,7 +2,7 @@ package = "haxe-deps"
 version = "0.0.1-7"
 
 source = {
-   url = "https://github.com/jdonaldson/haxe-deps.git"
+   url = "git+https://github.com/jdonaldson/haxe-deps.git"
 }
 
 description = {

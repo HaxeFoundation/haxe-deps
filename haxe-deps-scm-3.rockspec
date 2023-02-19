@@ -2,7 +2,7 @@ package = "haxe-deps"
 version = "scm-3"
 
 source = {
-   url = "https://github.com/jdonaldson/haxe-deps.git"
+   url = "git+https://github.com/jdonaldson/haxe-deps.git"
 }
 
 description = {
